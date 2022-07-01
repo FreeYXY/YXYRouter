@@ -1,0 +1,16 @@
+PODS:
+  - YXYRouter (0.1.0)
+
+DEPENDENCIES:
+  - YXYRouter (from `../`)
+
+EXTERNAL SOURCES:
+  YXYRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YXYRouter: 0206d22b2a824287e8c323b9d46f9ba44c22120d
+
+PODFILE CHECKSUM: 9b028df33cd0384b8b26f48d1113a53885da0d35
+
+COCOAPODS: 1.11.2
